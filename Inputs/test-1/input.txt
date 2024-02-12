@@ -1,0 +1,3 @@
+Pergunta 1: Crie uma estrutura de banco de dados em mysql pra uma loja somente de produtos
+
+Pergunta 2: Agora crie utilizando a linguagem mysql

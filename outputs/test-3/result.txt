@@ -1,0 +1,25 @@
+Os **serviços de IA do Azure** oferecem uma variedade de funcionalidades para resolver problemas diversos. Eles permitem que desenvolvedores e organizações criem aplicativos inteligentes, prontos para o mercado e responsáveis. Aqui estão algumas das utilidades desses serviços:
+
+1. **Detector de Anomalias**: Identifica possíveis problemas no início.
+2. **Azure AI Search**: Integra pesquisa em nuvem alimentada por IA em aplicativos móveis e web.
+3. **OpenAI do Azure**: Executa tarefas de processamento de linguagem natural.
+4. **Serviço de Bot**: Cria bots e conecta-os entre canais.
+5. **Content Moderator**: Detecta conteúdos potencialmente ofensivos ou indesejados.
+6. **Segurança do Conteúdo**: Detecta conteúdos indesejados.
+7. **Visão Personalizada**: Personaliza o reconhecimento de imagem para atender às necessidades de negócios.
+8. **Informação de Documentos**: Transforma documentos em dados utilizáveis.
+9. **Detecção Facial**: Identifica pessoas e emoções em imagens.
+10. **Leitura Avançada**: Auxilia os usuários na leitura e compreensão de texto.
+11. **Serviço de Idioma**: Cria aplicativos com recursos de reconhecimento de linguagem natural.
+12. **Reconhecimento Vocal**: Entende o idioma natural em aplicativos.
+13. **Assistente de Métricas**: Detecta conteúdos indesejados.
+14. **Personalizador**: Oferece experiências personalizadas aos usuários.
+15. **QnA Maker**: Transforma informações em perguntas e respostas de fácil navegação.
+16. **Serviço Cognitivo do Azure para Fala**: Realiza conversão de fala em texto, tradução e reconhecimento do locutor.
+17. **Tradutor**: Traduz mais de 100 idiomas e dialetos.
+18. **Video Indexer**: Extrai insights de vídeos.
+19. **Serviço Cognitivo do Azure para Visão**: Analisa conteúdo em imagens e vídeos.
+
+Esses serviços estão disponíveis por meio de APIs REST e SDKs em várias linguagens de programação populares. Com o Azure e seus serviços de IA, você também tem acesso a um ecossistema amplo, incluindo ferramentas de automação, integração e opções de implantação¹²³.
+
+Origem: conversa com o Bing, 12/02/2024
